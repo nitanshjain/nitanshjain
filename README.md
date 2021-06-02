@@ -25,7 +25,7 @@
 
 <a href="https://github.com/nitanshjain">
 
-<img alt="nitansh github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nitanshjain&count_private=true&include_all_commits=true&theme=tokyonight">
+<img alt="nitansh github stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=nitanshjain&count_private=true&include_all_commits=true&theme=tokyonight">
 
 <img alt="nitansh streak stats" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitanshjain&theme=tokyonight">
   
