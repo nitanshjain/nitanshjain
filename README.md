@@ -33,7 +33,7 @@
 
 <img alt="Top Langs" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitanshjain&theme=tokyonight" href="https://github.com/nitanshjain" />
 
-<img width="1500" height="auto" align="center" alt="Sidharth's github stats" src="https://github-profile-trophy.vercel.app/?username=sidB67&row=1&column=7&theme=darkhub&margin-w=15e" />
+<img width="1500" height="auto" align="center" alt="Nitansh's github stats" src="https://github-profile-trophy.vercel.app/?username=nitanshjain&row=1&column=7&theme=darkhub&margin-w=15e" />
 
 <!-- ![Nitansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitanshjain&count_private=true&include_all_commits=true&theme=tokyonight)
 
