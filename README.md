@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitanshjain" alt="nitansh" /> </p>
 
 <br>
--  🔭 I’m currently working on - Frontend Development
--  🌱 I’m currently learning - Javascript, React
--  🤔 I’m looking for help with - Data Structures and Algorithms
--  📫 How to reach me: nitanshjain@gmail.com
--  😄 Pronouns: He/Him
+-   🔭 I’m currently working on - Frontend Development
+-   🌱 I’m currently learning - Javascript, React
+-   🤔 I’m looking for help with - Data Structures and Algorithms
+-   📫 How to reach me: nitanshjain@gmail.com
+-   😄 Pronouns: He/Him
 <br>
 
 ![Nitansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitanshjain&count_private=true&include_all_commits=true&theme=tokyonight)
