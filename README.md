@@ -31,7 +31,7 @@
   
 </a>
 
-<img alt="Top Langs" height="50%" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitanshjain&theme=tokyonight" href="https://github.com/nitanshjain" />
+<img alt="Top Langs" align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitanshjain&theme=tokyonight" href="https://github.com/nitanshjain" />
 
 <!-- ![Nitansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitanshjain&count_private=true&include_all_commits=true&theme=tokyonight)
 
