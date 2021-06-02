@@ -4,6 +4,7 @@
 
 <br>
 -   🔭 I’m currently working on - Frontend Development
+<br>
 -   🌱 I’m currently learning - Javascript, React
 -   🤔 I’m looking for help with - Data Structures and Algorithms
 -   📫 How to reach me: nitanshjain@gmail.com
