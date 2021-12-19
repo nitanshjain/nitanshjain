@@ -2,13 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitanshjain" alt="nitansh" /> </p>
 
-<br>
--   🔭 I’m currently working on - Frontend Development
-<br>
--   🌱 I’m currently learning - Javascript, React
-<br>
--   🤔 I’m looking for help with - Data Structures and Algorithms
-<br>
+
 -   📫 How to reach me: nitanshjain@gmail.com
 <br>
 -   😄 Pronouns: He/Him
