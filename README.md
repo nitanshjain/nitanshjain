@@ -3,12 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitanshjain" alt="nitansh" /> </p>
 
 
--   📫 How to reach me: nitanshjain@gmail.com
-<br>
--   😄 Pronouns: He/Him
-<br>
-<br>
-
 **Languages and Tools:**  
 
 <code><img height="40" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
