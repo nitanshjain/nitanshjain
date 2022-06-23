@@ -1,4 +1,4 @@
-## Hi, I'm Nitansh ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm Nitansh 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitanshjain" alt="nitansh" /> </p>
 
