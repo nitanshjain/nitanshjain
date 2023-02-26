@@ -1,12 +1,5 @@
 ## Hi, I'm Nitansh 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitanshjain" alt="nitansh" /> </p>
-
-
-**Languages and Tools:**  
-
-
-
 <a href="https://github.com/nitanshjain">
 
 <img alt="nitansh github stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=nitanshjain&count_private=true&include_all_commits=true&theme=tokyonight">
